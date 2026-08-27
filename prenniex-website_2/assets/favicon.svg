@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" role="img" aria-label="Prenniex Global Solutions emblem">
+  <g fill="none">
+    <rect x="2" y="34" width="30" height="7" rx="1.5" fill="#1185BE"/>
+    <rect x="10" y="55" width="22" height="7" rx="1.5" fill="#727377"/>
+    <rect x="88" y="34" width="30" height="7" rx="1.5" fill="#1185BE"/>
+    <rect x="88" y="55" width="22" height="7" rx="1.5" fill="#1185BE"/>
+    <circle cx="60" cy="48" r="31" stroke="#1185BE" stroke-width="9"/>
+  </g>
+  <g stroke="#727377" stroke-width="1.8" fill="none">
+    <circle cx="60" cy="48" r="22"/>
+    <ellipse cx="60" cy="48" rx="7.5" ry="22"/>
+    <ellipse cx="60" cy="48" rx="16" ry="22"/>
+    <path d="M38.6 42.5h42.8M38.6 53.5h42.8M43 33h34M43 63h34"/>
+  </g>
+  <circle cx="60" cy="30.5" r="4.2" fill="#E6335B"/>
+  <path d="M63.5 35.5 52.5 51.5h7.2L56 68.5 70 47.5h-7.4z" fill="#E6335B"/>
+</svg>
